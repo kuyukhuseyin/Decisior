@@ -2,7 +2,7 @@
  Multi-criteria decision-making
 Docs
 
-1. Criteria Page
+#1. Criteria Page
 
 • Specify the number of criteria between 2-10.
 
@@ -14,7 +14,7 @@ Docs
 
 ![1](https://github.com/user-attachments/assets/3ff99655-9de7-4037-abca-9c8f0cdc53cb)
 
-2. Criteria Comparison Page
+#2. Criteria Comparison Page
 
 • Perform pairwise comparisons of criteria using Saaty 1-9 scale.
 
@@ -28,7 +28,7 @@ Docs
 
 ![2](https://github.com/user-attachments/assets/1376e38f-730b-4079-8d2b-a5c7aa4bb79b)
 
-3. Alternatives Page
+#3. Alternatives Page
 
 • Specify the number of alternatives between 2-10.
 
@@ -40,7 +40,7 @@ Docs
 
 ![3](https://github.com/user-attachments/assets/630945dc-b786-48e5-8f10-256ae42834e7)
 
-4. Decision Matrix Page
+#4. Decision Matrix Page
    
 • Enter a value between 0-10 for each criterion for each alternative.
 
@@ -48,7 +48,7 @@ Docs
 
 ![4](https://github.com/user-attachments/assets/093721a2-fc5e-4b4a-aed9-dfcdf5cc9e8a)
 
-5. Results Page
+#5. Results Page
 
 The following information is displayed on the Results page:
 
